@@ -1,5 +1,5 @@
 # Bird-Watcher
-Applying multiple DL models on a Kaggle Dataset, deployed with Streamlit
+Applying multiple DL models on a Kaggle Dataset, deployed with Streamlit.
 
 ## Setup:
 Install anaconda from: https://www.anaconda.com/
