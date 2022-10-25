@@ -5,7 +5,6 @@ import pandas as pd
 import numpy as np
 from PIL import Image
 
-
 from keras.preprocessing.image import load_img, img_to_array, ImageDataGenerator
 from tensorflow.keras.applications.inception_v3 import InceptionV3, preprocess_input
 import matplotlib.pyplot as plt
