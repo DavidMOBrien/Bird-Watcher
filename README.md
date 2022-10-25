@@ -10,4 +10,5 @@ Run `streamlit run app.py`
 
 The streamlit app is now running! You can select which model you want to use to predict on a specified image.
 
-![][sample_usage.png]
+![alt text](https://github.com/DavidMOBrien/Bird-Watcher/blob/master/doc_images/sample_usage.PNG?raw=true)
+
